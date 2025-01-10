@@ -7,7 +7,7 @@ This project is a **Node.js RESTful API** for managing users and posts in a blog
 ## Installation
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/justasapien/Nodejs_API.git
    cd Backend_Nodejs
    npm install
    node app.js
